@@ -1,5 +1,5 @@
 # CALCI
-##g Simple Python Calculator
+## Simple Python Calculator
 
 ### Description
 
